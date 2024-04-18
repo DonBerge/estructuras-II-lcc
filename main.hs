@@ -50,4 +50,3 @@ insert (x:xs) v t
                         l = left t
                         m = mid t
                         r = right t
-t = insert "ras" 1 (insert "sin" 7 (insert "se" 8 (insert "reo" 2 (insert "re" 16 (insert "si" 4 (insert "red" 9 (insert "res" 4 E)))))))
