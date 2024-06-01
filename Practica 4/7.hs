@@ -1,0 +1,1 @@
+data PHeaps a = Empty | Root a [PHeaps a ]
